@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F5762B</color>
+    <color name="colorPrimaryDark">#F46702</color>
+    <color name="colorAccent">#000000</color>
+
+    <color name="colorBlackDim">#848484</color>
+    <color name="colorBlue">#528CD3</color>
+    <color name="colorBlackDimText">#595959</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+    <color name="navdraw_textcolor">#1c2326</color>
+    <color name="colorGreyWhite">#EFEFEF</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorCrispyCream">#E8E8E8</color>
+
+
+    <!--if in case accent is not defined-->
+    <!--<color name="mdtp_accent_color">#009688</color>
+    <color name="mdtp_accent_color_dark">#00796b</color>-->
+
+    <color name="colorGreyDim">#E5E5E5</color>
+
+</resources>
